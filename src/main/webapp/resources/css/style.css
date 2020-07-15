@@ -1,0 +1,37 @@
+body{
+	/* background-image: url("../images/back.jpg"); */
+}
+#tableList{
+	width: 100%;
+}
+#divTable, #divAdd, #divUpdate{
+	padding-left: 50px;
+}
+#headerH2{
+	color: green;
+	text-align: center;
+}
+#searchForm{
+	display: flex;
+	float: right;
+}
+#inputSearch{
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border: #5bc0de 2px solid;
+}
+#buttonSearch{
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border: #5bc0de 2px solid;
+}
+#headerF{
+	margin-top: 5%;
+}
+#iframeYtb{
+	padding-top: 10%;
+	padding-left: 20%
+}
+tr:hover {
+	background-color: #99ccff;
+}
